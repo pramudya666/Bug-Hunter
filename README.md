@@ -18,12 +18,19 @@ If this is clear from the name, yes, it's just that this tool is still under dev
 This can be run on Windows and Linux too, I don't know about Mac.
 
 Open the terminal and type
+
 git clone https://github.com/pramudya666/Bug-Hunter.git
+
 Then enter, after that you type
+
 cd Bug-Hunter
+
 Enter and type
+
 python file_name.py
+
 or
+
 python3 file_name.py
 
 # Use the tools as best you can and just report if there is something missing or an error in the script.
